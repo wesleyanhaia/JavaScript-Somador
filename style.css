@@ -1,0 +1,53 @@
+
+body{
+    background: rgb(255, 255, 255) url(pexels-lumn-167682.jpg) center center no-repeat fixed; 
+    background-size: cover;
+} 
+
+h1{
+text-align: center;
+padding-top: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#externa{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#principal{
+    background-color: rgb(121, 111, 103);
+    height: 200px;
+    width: 550px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    
+}
+
+#qres{
+    background-color: rgb(122, 107, 94);
+    height: 100px;
+    width: 550px;
+    border-radius: 10px;
+}
+
+p{
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+
+}
+
+#filho1{
+    margin-bottom: 20px;
+}
+
+input{
+    outline: none;
+}
